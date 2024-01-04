@@ -7,13 +7,17 @@ Project consists of a tutorial on powerful genomic epidemiology concepts.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Phylogenetic Trees</h2>
 
-- <b>TBD</b> 
+- <b>Are all Tree the Same</b> 
 
-<h2>Environments Used </h2>
+<h2>Types of Trees</h2>
 
-- <b>TBD</b>
+- <b>Dendograms</b>
+
+- <b>Unrooted Trees</b>
+
+- <b>Rooted Trees</b>
 
 <h2>Project walk-through:</h2>
 
